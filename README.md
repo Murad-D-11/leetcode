@@ -32,3 +32,4 @@ Working through LeetCode has taught me much more than individual algorithms. Som
 
 This repository reflects my progress as a programmer, and I expect both my coding style and problem-solving approach to continue evolving over time.
 
+LeetCode profile: https://leetcode.com/u/MuradWaterlooSWE/
