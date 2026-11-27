@@ -15,6 +15,7 @@ This repository primarily contains solutions written in:
 * **C++** – My primary language for algorithms and performance-oriented programming.
 * **Java** – Used to strengthen my understanding of object-oriented programming and to prepare for technical interviews where Java is commonly used.
 * **Python** – Used occasionally for concise implementations and exploring different approaches.
+* **MySQL** – More of a side-quest for me to explore databases.
 
 As I continue learning new languages and technologies, I may revisit problems to compare syntax, performance, and programming paradigms.
 
